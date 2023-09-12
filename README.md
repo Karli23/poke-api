@@ -1,3 +1,3 @@
 # poke-api
 
-## Aqui foi criado uma Pokedex
+## Neste projeto criei uma Pokedex, trazendo os pokemons da primeira geração.
